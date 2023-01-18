@@ -1,6 +1,6 @@
 # MonkeyBox
 
-## Products API 
+## User API (creating products )
 ### POST /createProduct
 - Create a product document from request body.
 - Upload product image to S3 bucket and save image public url in document.
